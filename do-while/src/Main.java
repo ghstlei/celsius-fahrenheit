@@ -4,13 +4,14 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		// SINTAXE DO WHILE
-		// do {
-		// comando 1
-		// comando 2
-		// } while (condição); 
-		// o bloco de comando executa pelo menos uma vez pois a condição só aparece no final.
-		// se a condição for verdadeira, volta para o começo, se não pula fora.
+		
+		/* SINTAXE DO WHILE
+		do {
+		comando 1
+		comando 2
+		} while (condição); 
+		o bloco de comando executa pelo menos uma vez pois a condição só aparece no final.
+		se a condição for verdadeira, volta para o começo, se não pula fora. */
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
